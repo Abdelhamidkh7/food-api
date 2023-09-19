@@ -1,0 +1,27 @@
+{
+    "food": [
+        {
+            "id": 0,
+            "name": "Shawarma",
+            "Pper100g":  29.00,
+            "Calper100g": 144,
+            "ingredients": ["Marinted Chicked","olive oil","Lemon Juice"]
+
+
+        },
+        {
+            "id": 1,
+            "name": "Fettuccine",
+            "Pper100g":  6,
+            "Calper100g": 99,
+            "ingredients": [" Fettuccine Pasta","Heavy Cream","Shredded Parmesan Cheese"]
+        },
+        {
+            "id": 2,
+            "name": "Rice and Beans",
+            "Pper100g":  4.6,
+            "Calper100g": 151,
+            "ingredients": [" White Rice","Black or Brown Beans"]
+        }
+    ]
+}
